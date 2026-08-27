@@ -1,0 +1,17 @@
+---
+---
+@import "{{ site.theme }}";
+
+.page-header {
+    background-color: #3E8E41;
+    background-image: linear-gradient(120deg, #3E8E41, #2d6a30);
+}
+
+.btn {
+    background-color: #3E8E41;
+    border-color: #3E8E41;
+}
+.btn:hover {
+    background-color: #2d6a30;
+    border-color: #2d6a30;
+}
