@@ -21,3 +21,8 @@
 .page__footer {
   background-color: #2d6a30 !important;
 }
+
+/* Force the page to have a clean background */
+body {
+  background-color: white;
+}
