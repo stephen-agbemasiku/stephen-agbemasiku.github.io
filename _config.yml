@@ -1,37 +1,3 @@
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
-
 title: Stephen Agbemasiku
-name: Stephen Agbemasiku
 description: MPhil Economics Candidate | University of Cape Coast
-
-author:
-  name: Stephen Agbemasiku
-  avatar: profile.jpg
-  bio: MPhil Economics Candidate at the University of Cape Coast
-  location: Assin North, Ghana
-  links:
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:agbemasikustephen@gmail.com"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/stephen-agbemasiku"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/stephen-agbemasiku"
-    - label: "ResearchGate"
-      icon: "fab fa-researchgate"
-      url: "https://www.researchgate.net/"
-
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-    author_profile: false
-      sidebar:
-        nav: "main"
+theme: jekyll-theme-cayman
