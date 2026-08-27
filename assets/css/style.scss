@@ -2,16 +2,22 @@
 ---
 @import "{{ site.theme }}";
 
-.page-header {
-    background-color: #3E8E41;
-    background-image: linear-gradient(120deg, #3E8E41, #2d6a30);
+/* Make the top navigation bar GREEN */
+.masthead {
+  background-color: #3E8E41 !important;
+  border-bottom: none !important;
 }
 
-.btn {
-    background-color: #3E8E41;
-    border-color: #3E8E41;
+.masthead__inner-wrap a,
+.masthead__menu-item a {
+  color: white !important;
 }
-.btn:hover {
-    background-color: #2d6a30;
-    border-color: #2d6a30;
+
+.masthead__menu-item a:hover {
+  color: #d4edda !important;
+}
+
+/* Make the footer match */
+.page__footer {
+  background-color: #2d6a30 !important;
 }
