@@ -21,3 +21,4 @@ I am an MPhil Economics candidate at the University of Cape Coast, Ghana, and a 
 I am an African Economic Research Consortium (AERC) Collaborative Masters Programme (CMAP) scholar.
 
 [Download my CV](/cv.pdf) · [View my Research](/research/)
+
